@@ -136,6 +136,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://cn.redux.js.org'
       },
       {
+        icon: 'https://recoiljs.org/zh-hans/img/favicon.png',
+        title: 'recoil',
+        desc: 'Recoil is an experimental state management framework for React.',
+        link: 'https://recoiljs.org/zh-hans/'
+      },
+      {
         icon: 'https://zh.mobx.js.org/assets/mobx.png',
         title: 'MobX',
         desc: '一个小型、快速、可扩展的 React 状态管理解决方案',
