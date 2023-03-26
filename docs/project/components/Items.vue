@@ -52,8 +52,6 @@ const formatTitle = computed(() => {
   border: 2px solid var(--vp-c-brand-dark);
   border-radius: 8px;
   flex-direction: row;
-  height: 50vh;
-  width: 75vh;
   overflow: hidden;
   transition: 0.3s ease-in-out;
   padding: 2vh;
