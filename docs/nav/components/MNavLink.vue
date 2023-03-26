@@ -104,7 +104,7 @@ const svg = computed(() => {
     margin: 10px 0 0;
     line-height: 20px;
     font-size: 12px;
-    color: var(--vp-c-text-2);
+    color: var(--vp-c-text-1);
   }
 }
 
