@@ -49,7 +49,7 @@ const formatTitle = computed(() => {
 
 .resourceCard_JSJS {
   background-color: var(--ifm-card-background-color);
-  border: 2px solid var(--vp-c-brand-dark);
+  border: 1px solid var(--vp-c-text-1);
   border-radius: 8px;
   flex-direction: row;
   overflow: hidden;
