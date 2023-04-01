@@ -30,6 +30,7 @@ export default defineConfig({
         {
           text: '算法',
           items: [
+            { text: '隐藏个人信息', link: '/blog/algorithm/隐藏个人信息' },
             { text: '有趣的数组打印', link: '/blog/algorithm/有趣的数组打印' },
             { text: '同构字符串和二分查找', link: '/blog/algorithm/同构字符串和二分查找' },
             { text: 'Excel表列', link: '/blog/algorithm/Excel表列' },
@@ -39,9 +40,7 @@ export default defineConfig({
         },
         {
           text: '编程思想',
-          items: [
-            { text: '两个数组条件去重', link: '/blog/programming/面向对象和面向过程' }
-          ],
+          items: [{ text: '两个数组条件去重', link: '/blog/programming/面向对象和面向过程' }],
           collapsed: false
         }
       ]
