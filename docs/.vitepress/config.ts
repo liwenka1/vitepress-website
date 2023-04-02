@@ -30,6 +30,7 @@ export default defineConfig({
         {
           text: '算法',
           items: [
+            { text: '多边形三角剖分的最低得分', link: '/blog/algorithm/多边形三角剖分的最低得分' },
             { text: '隐藏个人信息', link: '/blog/algorithm/隐藏个人信息' },
             { text: '有趣的数组打印', link: '/blog/algorithm/有趣的数组打印' },
             { text: '同构字符串和二分查找', link: '/blog/algorithm/同构字符串和二分查找' },
