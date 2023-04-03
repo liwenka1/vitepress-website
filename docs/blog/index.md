@@ -5,5 +5,5 @@
 如果不喜欢vitepress风格的博客，你可以前往我的<a href="https://liwenka1.netlify.app/" target="_blank" rel="noreferrer">Hexo搭建的博客</a>进行阅读。
 <br>
 <a href="https://liwenka1.netlify.app/" target="_blank" rel="noreferrer">
-<img src="../public/hexo.png" alt="title" style="border-radius:10px" />
+<img src="/hexo.png" alt="title" style="border-radius:10px" />
 </a>
