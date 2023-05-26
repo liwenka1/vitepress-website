@@ -71,7 +71,23 @@ export const NAV_DATA: NavData[] = [
       }
     ]
   },
-
+  {
+    title: '算法',
+    items: [
+      {
+        icon: 'https://static.leetcode-cn.com/cn-assets/icons/favicon-160x160.png',
+        title: 'LeetCode',
+        desc: 'LeetCode 是一个非常棒的 OJ（Online Judge）平台，收录了许多互联网公司的算法题目，被称为刷题神器。',
+        link: 'https://leetcode.cn/'
+      },
+      {
+        icon: 'https://zerotrac.github.io/leetcode_problem_rating/favicon.ico',
+        title: 'rating',
+        desc: 'LeetCode 题目难度分。',
+        link: 'https://zerotrac.github.io/leetcode_problem_rating/#/'
+      }
+    ]
+  },
   {
     title: 'React',
     items: [
